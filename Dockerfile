@@ -9,6 +9,3 @@ FROM scratch
 WORKDIR /
 COPY --from=stage app /
 ENTRYPOINT ["/app"]
-
-#docker build -t papadopoli/desafiogo .
-#docker run --rm papadopoli/desafiogo
