@@ -23,5 +23,5 @@ docker run --rm <username>/desafiogo
 ## Uso da imagem gerada para o desafio
 
 ```bash
-docker run --rm alexpapa65/desafiogo
+docker run --rm papadopoli/desafiogo
 ```
